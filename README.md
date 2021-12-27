@@ -1,1 +1,1 @@
-[Smolyanko Igor CV](https://Igorsml.github.io/rsschool-cv/cv)
+https://igorsml.github.io/rsschool-cv/cv
