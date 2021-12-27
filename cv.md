@@ -1,82 +1,83 @@
-# Smolyanko Igor 
+# Smolyanko Igor
 
 ## Junior Frontend Developer
 
-*Санкт- Петербург Россия*
+*Saint-Petersburg, Russia*
 
-29 лет (11.08.1992)
+29 years (11.08.1992)
 
-### 👨‍💻 Опыт работы
+### 👨💻 Experience
 
----
+----
 
-## Ноябрь 2014 – по настоящее время
+## November 2014 - present
 
-**Технический специалист [vsesoki.ru](http://vsesoki.ru/) / [maxmassage.ru](http://maxmassage.ru) / [korea-health.ru](http://korea-health.ru) / [welbu.ru](http://welbu.ru) / [h-100.ru](http://h-100.ru) / [zam-luxury.ru](https://zam-luxury.ru/)**
+Technician [vsesoki.ru](http://vsesoki.ru/) / [maxmassage.ru](http://maxmassage.ru) / [korea-health.ru](http://korea-health.ru) / [welbu.ru](http://welbu.ru) / [h-100.ru](http://h-100.ru) / [zam-luxury.ru](https://zam-luxury.ru/)
 
-**Обязанности:**
+**Duties:**
 
-1. Работа с платформами Wordpress, InSales, Bitrix. Обслуживание 5 сайтов компании. Обслуживание внутренней CRM-системы.
-Интеграция виджетов, платежных систем, служб аналитики. Интеграция с торговыми площадками. Написание и внесение Front-End правок.
-2. Взаимодействие с торговыми площадками (выгрузка, настройка, взаимодействие с поддержкой)
-3. Пред- и пост-продажная консультация клиентов, замещение технического специалиста по ремонтным заявкам. 
-4. Монтаж видео и публикация видео (рекламные, тревел формата) в youtube, tiktok.
-5. Коммуникация с технической поддержкой сервисов.
-6. Прием тикетов от коллег в системе Bitrix24. Мониторинг рабочих чатов. Своевременное реагирование и исполнение.
-7. Работа в команде со старшим frontend-разработчиком, двумя дизайнерами компании.
-8.  Вёрстка и отправка email рассылок розничным и оптовым клиентам.
-9.  Участие в выставках [veg-life-expo.ru](https://veg-life-expo.ru/) и [vegmart.info](https://vegmart.info/) 
+1. Work with the Wordpress platform, InSales, Bitrix. Service 5 of sites.
+Service internal CRM-sistemy.Integratsiya widgets, payment systems, Analysis Services.
+Integration with trading platforms. Writing and submission Front-End edits.
+2. Interaction with trading floors (or unloading, configuration and interaction with support)
+3. Pre- and post-sales customer consultation, replacement technician repair applications.
+4. Installation of video and share videos (promotional, Travel format) in youtube, tiktok.
+5. Communication with technical support services.
+6. Admission tickets from colleagues in Bitrix24 system. Performance monitoring chat. Timely response and performance.
+7. Work as a team with the senior frontend-developer, the two designers of the company.
+8. Imposition and send email newsletters to retail and wholesale customers.
+9. Participation announcements [veg-life-expo.ru](https://veg-life-expo.ru/) and [vegmart.info](https://vegmart.info/)
 
 
-## Сентябрь 2012 — июль 2013
+## September 2012 - July 2013
 
-**Сеть магазинов «Новый книжный» и «Читай-город»**
+The network of shops "New Book" and "Read-city" 
 
-**Продавец-консультант**
+**Shop assistant**
 
-1. Работа с покупателями, прием звонков , кассово-расчетные операции
-2. Поддержание порядка в отдел, выкладка книг в соответствии требованиями компании
-3. Посещение семинаров для повышения квалификации
+1. Working with customers, receiving calls, cash and settlement operations
+2. Maintain order in the office, the calculation of the books in accordance with the requirements of the company
+3. Attending seminars for training
 
-### 💻 Обучение (курсы)
+### 💻 Education (courses)
 
-Сентябрь 2021 –  текущий момент
+September 2021 - current
 
-1. [rs.school](https://rs.school/) — профессия Фронтенд-программист
-2. [ru.hexlet.io](https://ru.hexlet.io/programs/frontend) — профессия Фронтенд-программист
+1. [rs.school](https://rs.school/) - profession Frontend programmer
+2. [ru.hexlet.io](https://ru.hexlet.io/programs/frontend) - profession Frontend programmer
 
----
+----
 
-## Пример кода
+## Sample code
 ```
 const sequenceSum = (begin, end) => {
 
-  if (begin > end) {
+  if (begin> end) {<br/>
     return NaN;
-  }
-  if (begin === end) {
+  <br/>}<br/>
+  if (begin === end) {<br/>
     return begin;
-  }
-  return begin + sequenceSum(begin + 1, end);
- 
+  <br/>}<br/>
+  return begin + sequenceSum (begin + 1, end);
 };
+
 ```
----
+----
 
-## Цитата
-> *Чтобы понять рекурсию, нужно понять рекурсию © Джейсон Стетхем*
----
+## Quote
+> In order to understand recursion, one must understand recursion © Jason Statham *
+----
 
-### 🤵 Кратко обо мне
+### 🤵 Briefly about me
 
-Незаурядная личность с чувством юмора и богатой фантазией. Спокойный, отзывчивый, схватываю на лету. Имею здравый перфекционизм, по душе раскопки до сути и ощущение успешно решенной задачи.
-Увлекаюсь фото и видео съёмкой, сапсёрфинг, разработка сайтов.
+Outstanding personality with a sense of humor and a visionary. Quiet, responsive, quick on the fly. I have a good perfectionism, like excavations to nature and a sense of successfully solving the problem.
+I am fond of photo and video shooting, standup paddleboarding, the development of sites.
 
-Женат, вместе с замечательной женой, воспитываем собаку и кошку.
+Married, with a wonderful wife, bringing up a dog and a cat.
 
-### Я открыт к сотрудничеству и участию в интересных проектах.
+### I am open to cooperate and participate in interesting projects.
 
-⭐ [Telegram](https://t.me/Igorsml)<br/>
-⭐ [Instagram](https://www.instagram.com/igogorsml/)<br/>
-⭐ [+7(904) 217-85-64](tel:79042178564)<br/>
-⭐ [igorsmlff@gmail.com](mailto:igorsmlff@gmail.com) <br/>
+⭐ [Telegram] (https://t.me/Igorsml) <br/>
+⭐ [Instagram] (https://www.instagram.com/igogorsml/) <br/>
+⭐ [+7 (904) 217-85-64] (tel: 79042178564) <br/>
+⭐ [igorsmlff@gmail.com] (mailto: igorsmlff@gmail.com) <br/>
