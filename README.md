@@ -1,1 +1,1 @@
-https://igorsml.github.io/rsschool-cv/cv
+https://igorsml.github.io/rsschool-cv/
