@@ -73,11 +73,11 @@ const sequenceSum = (begin, end) => {
 Outstanding personality with a sense of humor and a visionary. Quiet, responsive, quick on the fly. I have a good perfectionism, like excavations to nature and a sense of successfully solving the problem.
 I am fond of photo and video shooting, standup paddleboarding, the development of sites.
 
-Married, with a wonderful wife, bringing up a dog and a cat.
+Married, with a wonderful wife, bringing up a dog and a cat. 
 
 ### I am open to cooperate and participate in interesting projects.
 
 ⭐ [Telegram] (https://t.me/Igorsml) <br/>
 ⭐ [Instagram] (https://www.instagram.com/igogorsml/) <br/>
-⭐ [+7 (904) 217-85-64] (tel: 79042178564) <br/>
+⭐ [+7 (904) 217-85-64](tel:79042178564) <br/>
 ⭐ [igorsmlff@gmail.com] (mailto: igorsmlff@gmail.com) <br/>
