@@ -1,1 +1,1 @@
-# rsschool-cv
+https://igorsml.github.io/rsschool-cv/
